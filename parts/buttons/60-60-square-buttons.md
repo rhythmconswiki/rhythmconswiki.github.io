@@ -12,28 +12,71 @@ These buttonsa are used for [Sound Voltex](/controllers/sound-voltex/sound-volte
 
 ## Sanwa
 
-These buttons come stock with 100g microswitches and 100g springs, unless noted.
+These buttons come stock with 100g microswitches and 100g springs, unless noted. Possible colors are white, red, blue, green, and yellow.
 
-| **Lamp Holder** | **Lamp**           | **Switch**  | **Link**     | **Price** |
-|-----------------|--------------------|-------------|--------------|-----------|
-| Old Style       | None               | None        | [Rakuten][1] | 2310 JPY  |
-| Old Style       | None               | 100g        | [Rakuten][2] | 2376 JPY  |
-| Old Style       | Incadescent        | 100g        | [Rakuten][3] | 2398 JPY  |
-| Old Style       | LED (12V)          | 100g        | [Rakuten][4] | 3443 JPY  |
-| New Style       | None               | 100g        | [Rakuten][5] | 2651 JPY  |
-| New Style       | Incandscent        | 100g        | [Rakuten][6] | 2673 JPY  |
-| New Style       | LED (12V)          | 100g        | [Rakuten][7] | 3718 JPY  |
-| New Style       | None               | 100g (Reed) | [Rakuten][8] | 3806 JPY  |
-| New Style       | LED (5V, 12V, 24V) | 100g (Reed) | [Rakuten][9] | 4873 JPY  |
+| **Lamp Holder** | **Lamp**           | **Switch**  | **Link**      | **Price**  | **Notes**  |
+|-----------------|--------------------|-------------|---------------|------------|------------|
+| Old Style       | None               | None        | [Rakuten][R1] | 2310 JPY   |            |
+| Old Style       | None               | 100g        | [Rakuten][R2] | 2376 JPY   |            |
+| Old Style       | None               | 100g        | [ISTMALL][I1] | $18.50 USD | White Only |
+| Old Style       | Incadescent        | 100g        | [Rakuten][R3] | 2398 JPY   |            |
+| Old Style       | LED (12V)          | 100g        | [Rakuten][R4] | 3443 JPY   |            |
+| New Style       | None               | 100g        | [Rakuten][R5] | 2651 JPY   |            |
+| New Style       | Incandscent        | 100g        | [Rakuten][R6] | 2673 JPY   |            |
+| New Style       | LED (12V)          | 100g        | [Rakuten][R7] | 3718 JPY   |            |
+| New Style       | None               | 100g (Reed) | [Rakuten][R8] | 3806 JPY   |            |
+| New Style       | LED (5V, 12V, 24V) | 100g (Reed) | [Rakuten][R9] | 4873 JPY   |            |
+
+### SDVX Set from Blue Spring Express
+
+Blue Spring Express sells a full Sanwa set for SDVX (4x OBSA-60UK, 2x OBSA-45UK). Many colors are available and lamp holders are optional.
+
+| **Lamp Holder** | **Lamp** | **Switch**  | **Link**                   | **Price**   |
+|-----------------|----------|-------------|----------------------------|-------------|
+| Old (Optional)  | None     | None        | [Blue Spring Express][B1]  | $103.61 USD |
+
+## Generic (Chinese) Buttons
+
+ISTMALL has their own brand of generic buttons which have higher quality than those purchased on Aliexpress / eBay / Amazon. The spring is approximately 100g.
+
+| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Link**      | **Price**  |
+|-----------------|-----------|----------|-------------|---------------|------------|
+| Old Style       | White     | None     | 65g         | [ISTMALL][I2] | $6.00 USD  |
+
+### Aliexpress / eBay / Amazon
+
+The following search terms typically yield results:
+
+* 60mm square buttons
+* 60mm square game button
+* 60mm square arcade button
+
+{: .warning}
+Typically, these buttons will come with extremely heavy springs and switches (upwards of 500-600g total), which makes them unsuitable for rhythm games. Consider budgeting for new springs and switches.
+
+## Uniana Buttons
+
+These buttons are the ones installed into Sound Voltex cabinets that are distributed by Uniana (Korea)
+
+{: .note}
+These buttons are longer than Sanwa and generic buttons. Be mindful when installing them in existing controllers and tight fitting DIY plans.
+
+| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Link**      | **Price** |
+|-----------------|-----------|----------|-------------|---------------|-----------|
+| Generic         | White     | None     | Optional    | [Partum][P1]  | 8000 KRW  |
 
 ----
 
-[1]: https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/
-[2]: https://item.rakuten.co.jp/sanwadenshi/ilumb_080/
-[3]: https://item.rakuten.co.jp/sanwadenshi/ilumb_079/
-[4]: https://item.rakuten.co.jp/sanwadenshi/ilumb_078/
-[5]: https://item.rakuten.co.jp/sanwadenshi/ilumb_075/
-[6]: https://item.rakuten.co.jp/sanwadenshi/ilumb_074/
-[7]: https://item.rakuten.co.jp/sanwadenshi/ilumb_073/
-[8]: https://item.rakuten.co.jp/sanwadenshi/ilumb_077/
-[9]: https://item.rakuten.co.jp/sanwadenshi/ilumb_076/
+[R1]: https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/
+[R2]: https://item.rakuten.co.jp/sanwadenshi/ilumb_080/
+[R3]: https://item.rakuten.co.jp/sanwadenshi/ilumb_079/
+[R4]: https://item.rakuten.co.jp/sanwadenshi/ilumb_078/
+[R5]: https://item.rakuten.co.jp/sanwadenshi/ilumb_075/
+[R6]: https://item.rakuten.co.jp/sanwadenshi/ilumb_074/
+[R7]: https://item.rakuten.co.jp/sanwadenshi/ilumb_073/
+[R8]: https://item.rakuten.co.jp/sanwadenshi/ilumb_077/
+[R9]: https://item.rakuten.co.jp/sanwadenshi/ilumb_076/
+[I1]: https://www.us.istmall.co.kr/Product/Detail/view/pid/48/cid/161
+[I2]: https://www.us.istmall.co.kr/Product/Detail/view/pid/67/cid/161
+[B1]: https://bluespringexpress.net/en-us/products/sdvx-sanwa-set?variant=43065169019130
+[P1]: https://smartstore.naver.com/partum/products/5882277767
