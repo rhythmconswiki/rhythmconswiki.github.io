@@ -8,40 +8,40 @@ nav_order: 1
 
 # 60x60mm Square Button
 
-These buttonsa are used for [Sound Voltex](/controllers/sound-voltex/sound-voltex.md)'s BT buttons and [Ongeki](/controllers/ongeki/ongeki.md) main play buttons.
+These buttons are used for [Sound Voltex](/controllers/sound-voltex/sound-voltex.md)'s BT buttons and [Ongeki](/controllers/ongeki/ongeki.md)'s main play buttons.
 
 ## Sanwa
 
-These buttons come stock with 100g microswitches and 100g springs, unless noted. Possible colors are white, red, blue, green, and yellow.
+The model number is OBSA-60UK. Possible colors are white, red, blue, green, and yellow.
 
-| **Lamp Holder** | **Lamp**           | **Switch**  | **Link**      | **Price**  | **Notes**  |
-|-----------------|--------------------|-------------|---------------|------------|------------|
-| Old Style       | None               | None        | [Rakuten][R1] | 2310 JPY   |            |
-| Old Style       | None               | 100g        | [Rakuten][R2] | 2376 JPY   |            |
-| Old Style       | None               | 100g        | [ISTMALL][I1] | $18.50 USD | White Only |
-| Old Style       | Incadescent        | 100g        | [Rakuten][R3] | 2398 JPY   |            |
-| Old Style       | LED (12V)          | 100g        | [Rakuten][R4] | 3443 JPY   |            |
-| New Style       | None               | 100g        | [Rakuten][R5] | 2651 JPY   |            |
-| New Style       | Incandscent        | 100g        | [Rakuten][R6] | 2673 JPY   |            |
-| New Style       | LED (12V)          | 100g        | [Rakuten][R7] | 3718 JPY   |            |
-| New Style       | None               | 100g (Reed) | [Rakuten][R8] | 3806 JPY   |            |
-| New Style       | LED (5V, 12V, 24V) | 100g (Reed) | [Rakuten][R9] | 4873 JPY   |            |
+| **Lamp Holder** | **Lamp**           | **Switch**  | **Spring** | **Link**      | **Price**  | **Notes**  |
+|-----------------|--------------------|-------------|------------|---------------|------------|------------|
+| Old Style       | None               | None        | 100g       | [Rakuten][R1] | 2310 JPY   |            |
+| Old Style       | None               | 100g        | 100g       | [Rakuten][R2] | 2376 JPY   |            |
+| Old Style       | None               | 100g        | 100g       | [ISTMALL][I1] | $18.50 USD | White Only |
+| Old Style       | Incandescent       | 100g        | 100g       | [Rakuten][R3] | 2398 JPY   |            |
+| Old Style       | LED (12V)          | 100g        | 100g       | [Rakuten][R4] | 3443 JPY   |            |
+| New Style       | None               | 100g        | 100g       | [Rakuten][R5] | 2651 JPY   |            |
+| New Style       | Incandescent       | 100g        | 100g       | [Rakuten][R6] | 2673 JPY   |            |
+| New Style       | LED (12V)          | 100g        | 100g       | [Rakuten][R7] | 3718 JPY   |            |
+| New Style       | None               | 100g (Reed) | 100g       | [Rakuten][R8] | 3806 JPY   |            |
+| New Style       | LED (5V, 12V, 24V) | 100g (Reed) | 100g       | [Rakuten][R9] | 4873 JPY   |            |
 
 ### SDVX Set from Blue Spring Express
 
 Blue Spring Express sells a full Sanwa set for SDVX (4x OBSA-60UK, 2x OBSA-45UK). Many colors are available and lamp holders are optional.
 
-| **Lamp Holder** | **Lamp** | **Switch**  | **Link**                   | **Price**   |
-|-----------------|----------|-------------|----------------------------|-------------|
-| Old (Optional)  | None     | None        | [Blue Spring Express][B1]  | $103.61 USD |
+| **Lamp Holder** | **Lamp** | **Switch**  | **Spring** | **Link**                   | **Price**   |
+|-----------------|----------|-------------|------------|----------------------------|-------------|
+| Old (Optional)  | None     | None        | None       | [Blue Spring Express][B1]  | $103.61 USD |
 
 ## Generic (Chinese) Buttons
 
-ISTMALL has their own brand of generic buttons which have higher quality than those purchased on Aliexpress / eBay / Amazon. The spring is approximately 100g.
+ISTMALL has their own brand of generic buttons which are higher quality than those purchased on Aliexpress / eBay / Amazon.
 
-| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Link**      | **Price**  |
-|-----------------|-----------|----------|-------------|---------------|------------|
-| Old Style       | White     | None     | 65g         | [ISTMALL][I2] | $6.00 USD  |
+| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**      | **Price**  |
+|-----------------|-----------|----------|-------------|------------|---------------|------------|
+| Old Style       | White     | None     | 65g         | 100g       | [ISTMALL][I2] | $6.00 USD  |
 
 ### Aliexpress / eBay / Amazon
 
@@ -61,9 +61,9 @@ These buttons are the ones installed into Sound Voltex cabinets that are distrib
 {: .note}
 These buttons are longer than Sanwa and generic buttons. Be mindful when installing them in existing controllers and tight fitting DIY plans.
 
-| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Link**      | **Price** |
-|-----------------|-----------|----------|-------------|---------------|-----------|
-| Generic         | White     | None     | Optional    | [Partum][P1]  | 8000 KRW  |
+| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**      | **Price** |
+|-----------------|-----------|----------|-------------|------------|---------------|-----------|
+| Generic         | White     | None     | Optional    | Optional   | [Partum][P1]  | 8000 KRW  |
 
 ----
 
