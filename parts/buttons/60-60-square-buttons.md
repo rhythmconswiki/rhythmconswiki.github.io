@@ -26,6 +26,8 @@ These buttons come stock with 100g microswitches and 100g springs, unless noted.
 | New Style       | None               | 100g (Reed) | [Rakuten][8] | 3806 JPY  |
 | New Style       | LED (5V, 12V, 24V) | 100g (Reed) | [Rakuten][9] | 4873 JPY  |
 
+----
+
 [1]: https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/
 [2]: https://item.rakuten.co.jp/sanwadenshi/ilumb_080/
 [3]: https://item.rakuten.co.jp/sanwadenshi/ilumb_079/
