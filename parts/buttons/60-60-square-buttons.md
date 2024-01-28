@@ -2,6 +2,7 @@
 layout: default
 title: 60x60mm Square Button
 parent: Buttons
+grand_parent: Parts
 nav_order: 1
 ---
 
