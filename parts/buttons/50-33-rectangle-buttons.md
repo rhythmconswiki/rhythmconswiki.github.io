@@ -3,12 +3,12 @@ layout: default
 title: 50x33mm Rectangle Button
 parent: Buttons
 grand_parent: Parts
-nav_order: 1
+nav_order: 2
 ---
 
 # 50x33mm Rectangle Button
 
-These buttons are used for [beatmania IIX](/controllers/beatmania-iidx/beatmania-iidx.md)'s main play buttons and [Sound Voltex](/controllers/sound-voltex/sound-voltex.md)'s FX buttons.
+These buttons are used for [beatmania IIDX](/controllers/beatmania-iidx/beatmania-iidx.md)'s main play buttons and [Sound Voltex](/controllers/sound-voltex/sound-voltex.md)'s FX buttons.
 
 They are *rarely* listed by their size and are typically referred to as "beatmania buttons".
 
@@ -44,11 +44,11 @@ Blue Spring Express sells a full Sanwa set for IIDX (7x OBSA-45UK). Many colors 
 
 ## Samducksa
 
-Samducksa are Korean buttons, used on EZ2DJ/EZ2AC cabinets. The model number is CWB 405.
+The model number is CWB 405.
 
-| **Lamp Holder** | **Color**                              | **Lamp** | **Switch**  | **Spring** | **Link**      | **Price**  |
-|-----------------|----------------------------------------|----------|-------------|------------|---------------|------------|
-| Samducksa       | White, Black, Red, Blue, Yellow, Green | None     | 65g         | 20g        | [ISTMALL][I2] | $3.20 USD  |
+| **Lamp Holder** | **Color**                              | **Lamp** | **Switch** | **Spring** | **Link**      | **Price**  |
+|-----------------|----------------------------------------|----------|------------|------------|---------------|------------|
+| Samducksa       | White, Black, Red, Blue, Yellow, Green | None     | 65g        | 20g        | [ISTMALL][I2] | $3.20 USD  |
 
 {: .note}
 Despite the listing not officially coming with LEDs, sometimes 12V white LEDs are included.
@@ -95,9 +95,5 @@ These buttons are longer than Sanwa and generic buttons. Be mindful when install
 [I1]: https://www.us.istmall.co.kr/Product/Detail/view/pid/39/cid/161
 [I2]: https://www.us.istmall.co.kr/Product/Detail/view/pid/71/cid/161
 
-
-
-[I1]: https://www.us.istmall.co.kr/Product/Detail/view/pid/48/cid/161
-[I2]: https://www.us.istmall.co.kr/Product/Detail/view/pid/67/cid/161
 [B1]: https://bluespringexpress.net/en-us/products/iidx-sanwa-set
 [P1]: https://smartstore.naver.com/partum/products/5882277767
