@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Wiring LEDs
+parent: Getting Started
 nav_order: 4
-has_children: true
 ---
 
 # Wiring LEDs
