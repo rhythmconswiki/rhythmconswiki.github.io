@@ -9,6 +9,8 @@ nav_order: 3
 
 This page covers a few basic concepts of electricity and electronics. While it is by no means comprehensive, understanding these can help you avoid damaging components. 
 
+{.toc}
+
 ## Electricity Basics
 
 Two key concepts to understand are:

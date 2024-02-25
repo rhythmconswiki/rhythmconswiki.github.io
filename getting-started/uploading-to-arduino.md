@@ -9,6 +9,8 @@ nav_order: 6
 
 This page will walk you through step-by-step on how to set up the Arduino IDE and upload code to your Arduino for the first time! 
 
+{.toc}
+
 ## Step 1: Download the Arduino IDE
 
 Navigate to the [Arduino Downloads Page](https://www.arduino.cc/en/software) and click on the right side for your OS. 
@@ -16,7 +18,7 @@ Navigate to the [Arduino Downloads Page](https://www.arduino.cc/en/software) and
 {: .note}
 My recommendation is to scroll down and select 1.8.19. I've had relatively poor experience with the 2.X versions of the IDE. The rest of this walkthrough uses 1.8.19 in its screenshots. 
 
-<img src="./img/arduino-download.png" width="600" />
+<img src="./img/arduino-download.png" width="700" />
 
 After downloading, install the IDE.
 
@@ -32,7 +34,7 @@ In this example, we will be using KnucklesLee's code, but they will all work the
 
 Locate the green "Code" button, click it, and then click "Download ZIP". 
 
-<img src="./img/github-code-download.png" width="600" />
+<img src="./img/github-code-download.png" width="700" />
 
 Then, unzip the file. 
 
@@ -51,32 +53,33 @@ Run the Arduino IDE, select File -> Open, and locate your code. Select the file 
 
 It will look something like this: 
 
-<img src="./img/arduino-ide-board.png" width="600" />
+<img src="./img/arduino-ide-board.png" width="700" />
 
 Please note the board in the lower right, as indicated by the red arrow. This must match the board you are attempting to program to.
 
-<img src="./img/arduino-ide-choosingboard.png" width="600" />
+<img src="./img/arduino-ide-choosingboard.png" width="700" />
 
 ## Step 4: Select the port
 
 Plug in your Arduino. Then under Tools -> Port, select the COMxx number that matches your board. It should be labeled. 
 
-<img src="./img/arduino-ide-choosingboard.png" width="600" />
+<img src="./img/arduino-ide-choosingboard.png" width="700" />
 
 ## Step 5: Upload!
 
 Press the Upload button, located in the upper left of the screen. It is an arrow pointing to the right. When the upload is finished, the words "Done Uploading." will appear in the lower portion of the screen. 
 
-<img src="./img/arduino-ide-upload.png" width="600" />
+<img src="./img/arduino-ide-upload.png" width="700" />
 
 ### Step 5b: Troubleshooting
 
 If the upload fails, first go to "File -> Preferences" and ensure the "Upload" checkbox is selected next to the "Show verbose output during:" option. 
 
-<img src="./img/arduino-ide-filepreferences.png" /> <img src="./img/arduino-ide-verboseupload.png" width="600" />
+<img src="./img/arduino-ide-filepreferences.png" />
+<img src="./img/arduino-ide-verboseupload.png" width="700" />
 
 Then, examine the console output, shown in red text on a black background.
 
 If the following message is spamming, double check the port number selected in Step 4. If this is correct, reset the Arduino using the Red reset button (Leonardo / Micro) or by double tapping the RST pin to GND (Pro Micro) using a piece of wire. Reset **must** be pressed while this message is occurring. If it is done before or after, the board will not upload. 
 
-<img src="./img/arduino-ide-porterror.png" width="600" />
+<img src="./img/arduino-ide-porterror.png" width="700" />
