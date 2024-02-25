@@ -9,7 +9,7 @@ nav_order: 7
 
 This page lists a few common connector pinouts for different commercial vendors. 
 
-{.toc}
+{:toc}
 
 ## General Info
 

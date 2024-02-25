@@ -9,7 +9,7 @@ nav_order: 6
 
 This page will walk you through step-by-step on how to set up the Arduino IDE and upload code to your Arduino for the first time! 
 
-{.toc}
+{:toc}
 
 ## Step 1: Download the Arduino IDE
 
