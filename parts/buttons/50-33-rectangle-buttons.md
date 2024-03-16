@@ -7,10 +7,17 @@ nav_order: 2
 ---
 
 # 50x33mm Rectangle Button
+{: .no_toc }
 
 These buttons are used for [beatmania IIDX](/controllers/beatmania-iidx/beatmania-iidx.md)'s main play buttons and [Sound Voltex](/controllers/sound-voltex/sound-voltex.md)'s FX buttons.
 
 They are *rarely* listed by their size and are typically referred to as "beatmania buttons".
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Sanwa
 

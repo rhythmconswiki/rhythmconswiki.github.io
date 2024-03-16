@@ -6,8 +6,15 @@ nav_order: 4
 ---
 
 # Wiring LEDs
+{: .no_toc }
 
 This page discusses methods on wiring LEDs to microcontrollers. It is recommended you read [Electronics Basics](./electronics-basics.md) first if you are new to electronics. 
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Current Limiting Resistors
 

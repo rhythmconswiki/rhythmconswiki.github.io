@@ -7,8 +7,15 @@ nav_order: 4
 ---
 
 # 100m Circular Dome Button
+{: .no_toc }
 
 These buttons are used for [Pop'n Music](/controllers/pop-n-music/pop-n-music.md)'s main play buttons.
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Sanwa
 

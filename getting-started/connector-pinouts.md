@@ -6,11 +6,11 @@ nav_order: 7
 ---
 
 # Connector Pinouts
-{: .no_toc}
+{: .no_toc }
 
 This page lists a few common connector pinouts for different commercial vendors. 
 
-## Contents
+Contents
 {: .no_toc .text-delta }
 
 - TOC

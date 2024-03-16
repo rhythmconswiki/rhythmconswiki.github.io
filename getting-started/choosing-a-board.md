@@ -6,8 +6,15 @@ nav_order: 5
 ---
 
 # Choosing a Board
+{: .no_toc }
 
 Choosing a board is an important part of creating your controller! There are many options for the DIY enthusiast, so let's take a look. 
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Summary
 

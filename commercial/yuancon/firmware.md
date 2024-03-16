@@ -7,8 +7,15 @@ nav_order: 1
 ---
 
 # YuanCon Firmware
+{: .no_toc }
 
 This page contains instructions and links for how to update the firmware for YuanCon controllers.
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 {: .note}
 Some updater excecutables are unsigned and therefore may be flagged as malware. This is a false positive.
