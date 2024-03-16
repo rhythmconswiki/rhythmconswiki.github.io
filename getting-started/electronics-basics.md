@@ -11,14 +11,11 @@ nav_order: 3
 This page covers a few basic concepts of electricity and electronics. While it is by no means comprehensive, understanding these can help you avoid damaging components. 
 
 
-<details open markdown="block">
-  <summary>
-    Contents
-  </summary>
-  {: .text-delta }
+ ## Contents
+{: .no_toc .text-delta }
+
 - TOC
 {:toc}
-</details>
 
 ## Electricity Basics
 

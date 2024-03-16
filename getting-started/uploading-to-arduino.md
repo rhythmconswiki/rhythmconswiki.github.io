@@ -10,14 +10,11 @@ nav_order: 6
 
 This page will walk you through step-by-step on how to set up the Arduino IDE and upload code to your Arduino for the first time! 
 
-<details open markdown="block">
-  <summary>
-    Contents
-  </summary>
-  {: .text-delta }
+ ## Contents
+{: .no_toc .text-delta }
+
 1. TOC
 {:toc}
-</details>
 
 ## Step 1: Download the Arduino IDE
 
