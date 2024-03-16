@@ -10,7 +10,7 @@ nav_order: 7
 
 This page lists a few common connector pinouts for different commercial vendors. 
 
- ## Contents
+## Contents
 {: .no_toc .text-delta }
 
 - TOC

@@ -10,7 +10,7 @@ nav_order: 6
 
 This page will walk you through step-by-step on how to set up the Arduino IDE and upload code to your Arduino for the first time! 
 
- ## Contents
+## Contents
 {: .no_toc .text-delta }
 
 1. TOC
