@@ -10,8 +10,14 @@ nav_order: 7
 
 This page lists a few common connector pinouts for different commercial vendors. 
 
+<details open markdown="block">
+  <summary>
+    Contents
+  </summary>
+  {: .text-delta }
 - TOC
 {:toc}
+</details>
 
 ## General Info
 

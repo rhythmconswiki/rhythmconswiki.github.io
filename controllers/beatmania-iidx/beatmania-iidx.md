@@ -6,8 +6,18 @@ nav_order: 1
 ---
 
 # beatmania IIDX
+{: .no_toc}
 
 [Beatmania IIDX](https://remywiki.com/Beatmania_IIDX_Information) is a rhythm game by Konami.
+
+<details open markdown="block">
+  <summary>
+    Contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
 
 ## Buttons
 
