@@ -6,9 +6,11 @@ nav_order: 7
 ---
 
 # Connector Pinouts
+{: .no_toc}
 
 This page lists a few common connector pinouts for different commercial vendors. 
 
+- TOC
 {:toc}
 
 ## General Info
