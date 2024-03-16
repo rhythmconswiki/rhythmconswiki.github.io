@@ -46,7 +46,7 @@ Contents
 [PON1]: https://www.ponoko.com/materials
 [SCS1]: https://sendcutsend.com/
 [SCS2]: https://sendcutsend.com/materials/
-[OHS1]: https://www.oshcut.com/
+[OSH1]: https://www.oshcut.com/
 [LAB1]: https://www.laserlab.co.uk/
 [LAB2]: https://www.laserlab.co.uk/index.php?seo_path=materials
 [DOT1]: https://www.dotlaser.co.uk/
