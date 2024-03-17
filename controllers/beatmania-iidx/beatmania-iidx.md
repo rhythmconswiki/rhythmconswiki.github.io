@@ -32,7 +32,7 @@ KnucklesLee: [ttps://github.com/knuckleslee/RhythmCodes/tree/master/1E11B11LED_i
 
 4yn: [https://github.com/4yn/iivx](https://github.com/4yn/iivx)
 
-### Raspberry Pi Pico (RP4020)
+### Raspberry Pi Pico (RP2040)
 
 SpeedyPotato: [https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-iidx](https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-iidx)
 
