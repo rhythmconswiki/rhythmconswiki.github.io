@@ -15,3 +15,28 @@ Contents
 
 - TOC
 {:toc}
+
+## Buttons
+
+Main gameplay buttons: [60x60mm Square Buttons]({% link parts/buttons/100-circular-dome-buttons.md %})
+
+Some designs may feature extra menu buttons: [33x33mm Square Buttons]({% link parts/buttons/33-33-square-buttons.md %})
+
+## Code Repos
+
+### Arduino (Atmega 32U4)
+
+CrazyRedMachine: [https://github.com/CrazyRedMachine/UltimatePopnController](https://github.com/CrazyRedMachine/UltimatePopnController)
+
+This codebase also supports Arduino Due.
+
+### Raspberry Pi Pico (RP2040)
+
+{: .note}
+Modification of this repo is required to support 9 buttons and to change the pin assignments.
+
+SpeedyPotato: [https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-sdvx-pico](https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-sdvx-pico)
+
+## Plans and Guides
+
+Official panel art recreations and laser-cut case: [https://github.com/CrazyRedMachine/PopnPanel](https://github.com/CrazyRedMachine/PopnPanel)
