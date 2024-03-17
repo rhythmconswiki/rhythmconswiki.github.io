@@ -18,9 +18,9 @@ Contents
 
 ## Buttons
 
-Main gameplay buttons: [50x33mm Rectangle Buttons]({% link /parts/buttons/50-33-rectangle-buttons.md})
+Main gameplay buttons: [50x33mm Rectangle Buttons]({% link /parts/buttons/50-33-rectangle-buttons.md %})
 
-Menu buttons: [33x33mm Square Buttons]({% link /parts/buttons/33-33-square-buttons.md})
+Menu buttons: [33x33mm Square Buttons]({% link /parts/buttons/33-33-square-buttons.md %})
 
 ## Code Repos
 

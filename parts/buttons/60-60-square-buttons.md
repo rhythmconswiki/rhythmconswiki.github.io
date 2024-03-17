@@ -9,7 +9,7 @@ nav_order: 1
 # 60x60mm Square Button
 {: .no_toc }
 
-These buttons are used for [Sound Voltex]({% link /controllers/sound-voltex/sound-voltex.md})'s BT buttons and [Ongeki]({% link /controllers/ongeki/ongeki.md})'s main play buttons.
+These buttons are used for [Sound Voltex]({% link /controllers/sound-voltex/sound-voltex.md %})'s BT buttons and [Ongeki]({% link /controllers/ongeki/ongeki.md %})'s main play buttons.
 
 Contents
 {: .no_toc .text-delta }

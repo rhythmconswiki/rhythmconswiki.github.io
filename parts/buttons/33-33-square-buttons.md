@@ -9,7 +9,7 @@ nav_order: 3
 # 33x33mm Square Button
 {: .no_toc }
 
-These buttons are used for [beatmania IIDX]({% link /controllers/beatmania-iidx/beatmania-iidx.md})'s start, select, and effect buttons and [Sound Voltex]({% link /controllers/sound-voltex/sound-voltex.md})'s start button.
+These buttons are used for [beatmania IIDX]({% link /controllers/beatmania-iidx/beatmania-iidx.md %})'s start, select, and effect buttons and [Sound Voltex]({% link /controllers/sound-voltex/sound-voltex.md %})'s start button.
 
 Contents
 {: .no_toc .text-delta }
