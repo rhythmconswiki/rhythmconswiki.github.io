@@ -7,6 +7,8 @@ url: https://rhythmconswiki.github.io
 aux_links:
   "Contribute!": https://github.com/rhythmconswiki/rhythmconswiki.github.io
 
+permalink: pretty
+
 callouts_level: quiet
 callouts:
   highlight:
