@@ -52,7 +52,7 @@ This will only require one pin on the Arduino per button.
 
 An example of how to wire reactive lighting is shown below.
 
-<img src="./img/led-reactive-wiring.png" width="400" />
+<img src="../img/led-reactive-wiring.png" width="400" />
 
 ### HID Controlled
 
@@ -66,7 +66,7 @@ With direct drive, the microcontroller sources or sinks the LED directly from it
 
 An example of how to wire reactive lighting is shown below.
 
-<img src="./img/led-direct-wiring.png" width="400" />
+<img src="../img/led-direct-wiring.png" width="400" />
 
 #### Mosfet Drive
 

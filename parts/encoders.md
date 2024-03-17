@@ -22,7 +22,7 @@ This style of encoder is durable and easy to mount and mount to. YuanCon control
 
 In most cases, one should select the options for **5-24V**, **NPN or Open Drain**, and **360 PPR**. Many guides suggest 600 PPR, but this is now considered to be far too fine resolution for the needs of a controller.
 
-<img src="./img/generic-chinese-encoder.png" width="300" />
+<img src="../img/generic-chinese-encoder.png" width="300" />
 
 These can be found on Aliexpress and other storefronts by searching "Incremental Rotary Encoder".
 
@@ -35,4 +35,4 @@ These encoders may not work with 3.3V power. It is recommended to power them on 
 
 This style of encoder was popularized by the DJ Dao SVRE5 and Virgoo Turbocharger. Generally, it's not recommended to use this in a new build as they're regarded as fragile.
 
-<img src="./img/copal_res20d-50-201-1.png" width="300" />
+<img src="../img/copal_res20d-50-201-1.png" width="300" />
