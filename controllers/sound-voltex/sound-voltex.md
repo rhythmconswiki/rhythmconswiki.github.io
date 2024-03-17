@@ -18,7 +18,7 @@ Contents
 
 ## Buttons
 
-BT buttons: [60x60mm Square Buttons]({% link parts/buttons/60-60-sqaure-buttons.md %})
+BT buttons: [60x60mm Square Buttons]({% link parts/buttons/60-60-square-buttons.md %})
 
 FX buttons: [50x33mm Rectangle Buttons]({% link parts/buttons/50-33-rectangle-buttons.md %})
 
