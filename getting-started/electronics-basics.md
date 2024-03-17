@@ -35,7 +35,7 @@ Current (measured by the unit Ampere or Amp [A]) refers to the amount of electri
 
 Most commonly, current is encountered to represent a *maximum* amount that a DC charger or power supply can give to a circuit. For example, a common threshold to keep in mind is the limit of USB 2.0, which is 0.5A or 500mA. If this limit is exceeded, it can cause issues for the power supply and may result in damage.
 
-In general, excessive current *can damage components*. While some components can regulate current themselves, other components (such as LEDs) will need what is called a **current limiting resistor**. See the page on [Wiring LEDs]({% link ./wiring-leds.md %}) for more information. 
+In general, excessive current *can damage components*. While some components can regulate current themselves, other components (such as LEDs) will need what is called a **current limiting resistor**. See the page on [Wiring LEDs]({% link getting-started/wiring-leds.md %}) for more information. 
 
 ## Electronics Basics
 

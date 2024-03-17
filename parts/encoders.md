@@ -8,7 +8,7 @@ nav_order: 5
 # Encoders
 {: .no_toc }
 
-This page lists options for **Incremental Encoders**, commonly used in DIY builds for [beatmania IIDX]({% link /controllers/beatmania-iidx/beatmania-iidx.md %}) and [Sound Voltex]({% link /controllers/sound-voltex/sound-voltex.md %}).
+This page lists options for **Incremental Encoders**, commonly used in DIY builds for [beatmania IIDX]({% link controllers/beatmania-iidx/beatmania-iidx.md %}) and [Sound Voltex]({% link controllers/sound-voltex/sound-voltex.md %}).
 
 Contents
 {: .no_toc .text-delta }

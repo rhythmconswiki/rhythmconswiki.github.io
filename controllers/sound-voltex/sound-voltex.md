@@ -18,15 +18,15 @@ Contents
 
 ## Buttons
 
-BT buttons: [60x60mm Square Buttons]({% link /parts/buttons/60-60-sqaure-buttons.md %})
+BT buttons: [60x60mm Square Buttons]({% link parts/buttons/60-60-sqaure-buttons.md %})
 
-FX buttons: [50x33mm Rectangle Buttons]({% link /parts/buttons/50-33-rectangle-buttons.md %})
+FX buttons: [50x33mm Rectangle Buttons]({% link parts/buttons/50-33-rectangle-buttons.md %})
 
-Start button: [33x33mm Square Buttons]({% link /parts/buttons/33-33-square-buttons.md %})
+Start button: [33x33mm Square Buttons]({% link parts/buttons/33-33-square-buttons.md %})
 
 ## Knobs
 
-Possible options for encoder are listed [here]({% link /parts/encoders.md %}).
+Possible options for encoder are listed [here]({% link parts/encoders.md %}).
 
 Full size aluminum knobs can be purchased at:
 * SpeedyLabs: [https://www.speedylabs.us/product/sound-voltex-aluminum-yuancon-diy-knob/](https://www.speedylabs.us/product/sound-voltex-aluminum-yuancon-diy-knob/)
