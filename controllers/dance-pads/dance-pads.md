@@ -11,7 +11,7 @@ has_children: true
 
 Dance games utilize similar construction and sensors, so both [Dance Dance Revolution](https://remywiki.com/DanceDanceRevolution_Information) and [Pump it Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) will be on this page.
 
-This page covers full-sized pads. For smaller "Travel Pads", see the [other sub-page]({% include link controllers/dance-pads/travel-pads.md %}).
+This page covers full-sized pads. For smaller "Travel Pads", see the [other sub-page]({% link controllers/dance-pads/travel-pads.md %}).
 
 Contents
 {: .no_toc .text-delta }
