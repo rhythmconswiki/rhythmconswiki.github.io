@@ -11,7 +11,7 @@ has_children: true
 
 Dance games utilize similar construction and sensors, so both [Dance Dance Revolution](https://remywiki.com/DanceDanceRevolution_Information) and [Pump it Up](https://en.wikipedia.org/wiki/Pump_It_Up_(video_game_series)) will be on this page.
 
-This page covers full-sized pads. For smaller "Travel Pads", see the [other sub-page](% link controllers/dance-pads/travel-pads.md %).
+This page covers full-sized pads. For smaller "Travel Pads", see the [other sub-page]({% include link controllers/dance-pads/travel-pads.md %}).
 
 Contents
 {: .no_toc .text-delta }
@@ -27,7 +27,7 @@ Some builds may use arcade sensors, but these are rather pricey for DIY usage. I
 
 DIY pads typically use cheaper sensors available from Chinese manufacturers, shown below. They are easily available on Aliexpress with the query "arcade dance sensor". These sensors use JST XH connectors.
 
-{% include image.html url="../img/chinese-sensor.png" description="Chinese dance sensors" %}
+{% include image.html url="../img/chinese-sensor.png" description="Chinese dance sensor" %}
 
 ## Plans and Guides
 
