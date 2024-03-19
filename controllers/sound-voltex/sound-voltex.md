@@ -65,6 +65,8 @@ A simple laser-cut guide: [https://github.com/fabricioanciaes/OpenSDVXCon](https
 
 An MDF and acrylic guide: [https://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/](https://consandstuff.github.io/rhythmcons/sound-voltex/sdvx-normal/)
 
+An extremely low-cost guide (that sheds accuracy in components for budget): [https://github.com/felixha00/lowcost-voltex](https://github.com/felixha00/lowcost-voltex)
+
 ### Minicon
 
 PCB and acrylic design: [https://github.com/mon/PocketVoltex](https://github.com/mon/PocketVoltex)
