@@ -22,6 +22,10 @@ Main gameplay buttons: [50x33mm Rectangle Buttons]({% link parts/buttons/50-33-r
 
 Menu buttons: [33x33mm Square Buttons]({% link parts/buttons/33-33-square-buttons.md %})
 
+### Switch and Spring Options
+
+As of Lightning cabinets, arcade stock options are **50g switch / 50g spring**, and prior to that, switch and spring options varied greatly depending on preference of local arcade players. DP players may prefer a lighter spring.
+
 ## Code Repos
 
 ### Arduino (Atmega 32U4)
@@ -56,13 +60,17 @@ DJ Dao's FPS controller is another popular size for smaller controllers, using a
 
 ### Arcade Sized
 
-**Infecta** has an arcade-sized plan: [https://github.com/Infecta/Controller-LaserCut-CAD](https://github.com/Infecta/Controller-LaserCut-CAD)
+A full sized controller designed for laser cutting: [https://github.com/Infecta/Controller-LaserCut-CAD](https://github.com/Infecta/Controller-LaserCut-CAD)
 
 ### Smaller Controllers
 
-**Thomas-Star** has a number of designs of various sizes:
-* GJ-Tho Modular: [https://www.thingiverse.com/thing:6286147](https://www.thingiverse.com/thing:6286147)
-* GJ-Tho Portable: [https://www.thingiverse.com/thing:6050384](https://www.thingiverse.com/thing:6050384)
+GJ-Tho Modular, a 3d-printed controller with full sized keypad and smaller turntable: [https://www.thingiverse.com/thing:6286147](https://www.thingiverse.com/thing:6286147)
+
+GJ-Tho Portable, a 3d printed controller with full sized keypad and very small turntable: [https://www.thingiverse.com/thing:6050384](https://www.thingiverse.com/thing:6050384)
+
+IIDX Pico, a 3d printed design focused on portability: [https://github.com/whowechina/iidx_pico](https://github.com/whowechina/iidx_pico)
+
+Teeny IIDX, a 3d printed design that folds up: [https://github.com/whowechina/iidx_teeny](https://github.com/whowechina/iidx_teeny)
 
 The **Cons & Stuff** site has a smaller design: [https://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/](https://consandstuff.github.io/rhythmcons/beatmania-iidx/iidx-small/)
 

@@ -24,6 +24,10 @@ FX buttons: [50x33mm Rectangle Buttons]({% link parts/buttons/50-33-rectangle-bu
 
 Start button: [33x33mm Square Buttons]({% link parts/buttons/33-33-square-buttons.md %})
 
+### Switch and Spring Options
+
+As of Valkyrie cabinets, arcade stock options are **100g switch / 20g spring**, although depending on your setup, **100g switch / 40g spring** may feel closer. Some players may prefer **50g switch / 60g spring**.
+
 ## Knobs
 
 Possible options for encoder are listed [here]({% link parts/encoders.md %}).
@@ -74,10 +78,6 @@ PCB and acrylic design: [https://github.com/mon/PocketVoltex](https://github.com
 3D printed design: [https://github.com/speedypotato/Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)
 
 ## Frequently Asked Questions
-
-### Which switch / spring setup should I use?
-
-As of Valkyrie cabinets, arcade stock options are **100g switch / 20g spring**, although depending on your setup, **100g switch / 40g spring** may feel closer. Some players may prefer **50g switch / 60g spring**.
 
 ### Should I buy the official Konami NESYS Controller?
 

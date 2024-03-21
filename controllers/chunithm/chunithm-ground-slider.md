@@ -3,8 +3,7 @@ layout: default
 title: Chunithm Ground Slider
 parent: Chunithm
 grand_parent: Controllers
-nav_order: 5
-has_children: true
+nav_order: 1
 ---
 
 # Chunithm Ground Slider

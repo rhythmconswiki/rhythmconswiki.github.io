@@ -22,6 +22,10 @@ Main gameplay buttons: [60x60mm Square Buttons]({% link parts/buttons/100-circul
 
 Some designs may feature extra menu buttons: [33x33mm Square Buttons]({% link parts/buttons/33-33-square-buttons.md %})
 
+### Switch and Spring Options
+
+Arcade stock options are **100g switch / 200g spring**, though some players may find **100g switch / 100g spring** more comfortable.
+
 ## Code Repos
 
 ### Arduino (Atmega 32U4)
@@ -39,4 +43,10 @@ SpeedyPotato: [https://github.com/speedypotato/Pico-Game-Controller/tree/release
 
 ## Plans and Guides
 
+### Full Size
+
 Official panel art recreations and laser-cut case: [https://github.com/CrazyRedMachine/PopnPanel](https://github.com/CrazyRedMachine/PopnPanel)
+
+### Minicon
+
+Pico Popn, a minicon design using 3D printed parts and a custom PCB: [https://github.com/whowechina/popn_pico](https://github.com/whowechina/popn_pico)
