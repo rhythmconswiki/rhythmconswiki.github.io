@@ -33,7 +33,7 @@ The outputs are split between the two towers, so each has 3. Starting from the l
 
 Note pin numbering is right to left, so pin 8 is the central pin of row 2, pin 10 the leftmost pin of row 2, and pin 9 is between them. 
 
-{% include image.html url="../img/chunithm-air-string-sensor-connector.jpg" description="An image showing the sensor connector from a chunithm air string unit. The pinout is annotated, left to right, top to bottom, as so: 5V, TOWER, TOWER, TOWER, TOWER, TOWER, TOWER, OUTPUT, OUTPUT, OUTPUT, GND, GND, NC, EARTH. The pins marked "tower" connect to the other air tower on the other side, so pin 2 -> pin 2, pin 3 -> pin 3 and so on. Outputs are where the state of the tower can be read from (order to be checked)." %}
+{% include image.html url="../img/chunithm-air-string-sensor-connector.jpg" description="An image showing the sensor connector from a chunithm air string unit. The pinout is annotated, left to right, top to bottom, as so: 5V, TOWER, TOWER, TOWER, TOWER, TOWER, TOWER, OUTPUT, OUTPUT, OUTPUT, GND, GND, NC, EARTH. The pins marked 'tower' connect to the other air tower on the other side, so pin 2 -> pin 2, pin 3 -> pin 3 and so on. Outputs are where the state of the tower can be read from (order to be checked)." %}
 
 {% include image.html url="../img/chunithm-air-string-led-connector.jpg" description="An image showing the LED connector from a chunithm air string unit. The pinout is annotated, left to right, top to bottom, as so: NC, NC, GND, 12V, NC, DI." %}
 
