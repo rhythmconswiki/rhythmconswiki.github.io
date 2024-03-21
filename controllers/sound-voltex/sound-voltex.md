@@ -75,6 +75,8 @@ An extremely low-cost guide (that sheds accuracy in components for budget): [htt
 
 PCB and acrylic design: [https://github.com/mon/PocketVoltex](https://github.com/mon/PocketVoltex)
 
+PCB and 3D printed design: [https://github.com/speedypotato/Pocket-SDVX-Pico-v4](https://github.com/speedypotato/Pocket-SDVX-Pico-v4)
+
 3D printed design: [https://github.com/speedypotato/Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)
 
 ## Frequently Asked Questions
