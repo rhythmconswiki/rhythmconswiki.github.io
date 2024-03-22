@@ -37,4 +37,4 @@ Approximiately 930mm.
 
 ## Arcade Hardware
 
-See the Table of Contents Below:
+See the Table of Contents below:

@@ -18,7 +18,7 @@ Contents
 
 ## Buttons
 
-Main gameplay buttons: [60x60mm Square Buttons]({% link parts/buttons/100-circular-dome-buttons.md %})
+Main gameplay buttons: [100mm Circular Dome Buttons]({% link parts/buttons/100-circular-dome-buttons.md %})
 
 Some designs may feature extra menu buttons: [33x33mm Square Buttons]({% link parts/buttons/33-33-square-buttons.md %})
 

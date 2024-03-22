@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-## Welcome to the Rhythm Cons Wiki!
+# Welcome to the Rhythm Cons Wiki!
 
 This site is primarily devoted to creating rhythm game controllers for various rhythm games.
 
