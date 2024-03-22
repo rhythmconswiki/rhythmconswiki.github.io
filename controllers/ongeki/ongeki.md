@@ -5,7 +5,7 @@ parent: Controllers
 nav_order: 6
 ---
 
-# Pop'n Music
+# Ongeki
 {: .no_toc }
 
 [Ongeki](https://silentblue.remywiki.com/ONGEKI) is a rhythm game by Sega.
