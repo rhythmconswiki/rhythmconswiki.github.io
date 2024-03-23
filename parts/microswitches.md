@@ -10,6 +10,8 @@ nav_order: 3
 
 It is recommended to use one of the two following brands for reliability and consistency. Cheap Chinese microswitches are electrically noisy and often significantly too heavy (between 200-400g) for normal play. 
 
+Can't decide what to buy? Found a new switch you'd like to promote? Check out the [switch reviews]({% link parts/switch-reviews.md %}) page.
+
 Contents
 {: .no_toc .text-delta }
 
@@ -37,12 +39,12 @@ Omron is a Japanese manufacturer and the de facto standard for arcade cabinets.
 | [Rakuten][R3]             | 341 JPY   |
 | [Blue Spring Express][B3] | $6.00 AUD |
 | [ISTMALL][I4]             | $3.20 USD |
-| [Digikey][D1]             | $8.33 USD |
+| [Digikey][D3]             | $5.12 USD |
 
 ### D2MV-01-1C3 (50g)
 
 {: .note}
-This switch has been discontinued. You may still find shops with old stock remaining. The recommended replacement is the VX-01-1A3.
+This switch has been discontinued. You may still find shops with old stock remaining. The recommended replacement is the VX-01-1C23.
 
 | **Link**                  | **Price** |
 |---------------------------|-----------|
@@ -54,11 +56,12 @@ This switch has been discontinued. You may still find shops with old stock remai
 | **Link**                  | **Price** |
 |---------------------------|-----------|
 | [ISTMALL][I5]             | $3.20 USD |
+| [Digikey][D4]             | $5.12 USD |
 
 ### D2MV-01-1C2 (25g)
 
 {: .note}
-This switch has been discontinued. You may still find shops with old stock remaining. The recommended replacement is the VX-01-1A2.
+This switch has been discontinued. You may still find shops with old stock remaining. The recommended replacement is the VX-01-1C22.
 
 | **Link**                  | **Price** |
 |---------------------------|-----------|
@@ -108,5 +111,7 @@ Gersung is a Korean manufacturer and the default switch for Samducksa brand butt
 
 [D1]: https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C3/5236584
 [D2]: https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/V-10-1A4/1828942
+[D3]: https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C23/369962
+[D4]: https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C22/369961
 
 [M1]: https://www.mouser.com/ProductDetail/Omron-Electronics/V-10-1A4?qs=jlWqeHNmHbTuw%252Bapuv1yjg%3D%3D
