@@ -7,3 +7,13 @@ has_children: true
 ---
 
 # DJ Dao
+
+## Frequently Asked Questions
+
+### Do replacement boards exist?
+
+Here is one for Phoenixwan+ and Faucetwo: [https://github.com/HWXLR8/beef-board](https://github.com/HWXLR8/beef-board)
+
+## Controllers
+
+Click one of the options below:

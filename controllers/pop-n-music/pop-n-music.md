@@ -50,3 +50,7 @@ Official panel art recreations and laser-cut case: [https://github.com/CrazyRedM
 ### Minicon
 
 Pico Popn, a minicon design using 3D printed parts and a custom PCB: [https://github.com/whowechina/popn_pico](https://github.com/whowechina/popn_pico)
+
+## Monitor Info
+
+The monitors on both SD and HD cabs are tilted at a 15 degree angle.

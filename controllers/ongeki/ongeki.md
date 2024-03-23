@@ -36,7 +36,7 @@ Nana0Nana: [https://github.com/Nana0Nana/ongeki-io](https://github.com/Nana0Nana
 
 XxLittleCxX: [https://github.com/XxLittleCxX/lkick-io4](https://github.com/XxLittleCxX/lkick-io4)
 
-## Plan and Guides
+## Plans and Guides
 
 ### Arcade Sized
 
