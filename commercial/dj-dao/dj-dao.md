@@ -7,6 +7,13 @@ has_children: true
 ---
 
 # DJ Dao
+{: .no_toc }
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Frequently Asked Questions
 

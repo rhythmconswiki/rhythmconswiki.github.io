@@ -16,6 +16,12 @@ Contents
 - TOC
 {:toc}
 
+## Code Repos
+
+### Arduino (32U4)
+
+CrazyRedMachine: [https://github.com/CrazyRedMachine/jubeatIO](https://github.com/CrazyRedMachine/jubeatIO)
+
 ## Plans and Guides
 
 {: .note}
