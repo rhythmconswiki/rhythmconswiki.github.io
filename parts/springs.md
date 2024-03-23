@@ -6,9 +6,16 @@ nav_order: 2
 ---
 
 # Springs
+{: .no_toc }
 
 {: .note}
 Spring lengths are different between manufacturers. For best performance, use springs from the manufacturer that matches your buttons.
+
+Contents
+{: .no_toc .text-delta }
+
+- TOC
+{:toc}
 
 ## Sanwa
 
