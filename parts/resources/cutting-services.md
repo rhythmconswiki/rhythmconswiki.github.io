@@ -4,6 +4,8 @@ title: Cutting Services
 parent: Resources
 grand_parent: Parts
 nav_order: 1
+redirect_from:
+  - /w/2D_Cutting_Services
 ---
 
 # Cutting Services
