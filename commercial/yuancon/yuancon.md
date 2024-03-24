@@ -38,7 +38,7 @@ See [YuanCon Firmware]({$ link commercial/yuancon/firmware.md $}).
 
 ### How do I set up the controller for SDVX EAC/Konasute?
 
-Use mode 3 and don't bind anything. See [#What are the different modes for YuanCon SDVX controllers?](#What are the different modes for YuanCon SDVX controllers?)
+Use mode 3 and don't bind anything. See [SDVX Modes](#what-are-the-different-modes-for-yuancon-sdvx-controllers)
 
 For controllers prior to the SDVX 12, including the SDVX Lite (1 and 2/+), install the latest firmware for compatibility. See [YuanCon Firmware]({$ link commercial/yuancon/firmware.md $}).
 
@@ -116,7 +116,7 @@ YuanCon does not currently support HID lights for any SDVX controllers.
 
 ### How do I set up the controller for Infinitas?
 
-Use mode 3 and don't bind anything. See [#What are the different modes for YuanCon IIDX controllers?](#What are the different modes for YuanCon IIDX controllers?)
+Use mode 3 and don't bind anything. See [IIDX Modes](#what-are-the-different-modes-for-yuancon-iidx-controllers)
 
 ### How do I set up the controller for beatoraja?
 
