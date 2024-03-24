@@ -4,6 +4,8 @@ title: Chunithm Ground Slider
 parent: Chunithm
 grand_parent: Controllers
 nav_order: 1
+redirect_from:
+  - /w/Chunithm_Ground_Slider
 ---
 
 # Chunithm Ground Slider

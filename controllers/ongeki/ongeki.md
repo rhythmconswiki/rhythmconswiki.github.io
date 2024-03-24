@@ -3,6 +3,8 @@ layout: default
 title: Ongeki
 parent: Controllers
 nav_order: 6
+redirect_from:
+  - /w/Ongeki
 ---
 
 # Ongeki

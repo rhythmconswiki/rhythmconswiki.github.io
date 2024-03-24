@@ -3,6 +3,8 @@ layout: default
 title: Choosing a Board
 parent: Getting Started
 nav_order: 5
+redirect_from:
+  - /w/Choosing_A_Board
 ---
 
 # Choosing a Board

@@ -3,6 +3,8 @@ layout: default
 title: Maintenance FAQ
 parent: Getting Started
 nav_order: 7
+redirect_from:
+  - /w/Maintenance_FAQ 
 ---
 
 # Maintenance FAQ

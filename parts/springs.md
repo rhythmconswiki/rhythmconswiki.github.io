@@ -3,6 +3,8 @@ layout: default
 title: Springs
 parent: Parts
 nav_order: 2
+redirect_from:
+  - /w/Springs
 ---
 
 # Springs

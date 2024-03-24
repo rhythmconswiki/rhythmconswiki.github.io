@@ -4,6 +4,8 @@ title: 100mm Circular Dome Button
 parent: Buttons
 grand_parent: Parts
 nav_order: 4
+redirect_from:
+  - /w/100mm_Circular_Dome_Button
 ---
 
 # 100m Circular Dome Button

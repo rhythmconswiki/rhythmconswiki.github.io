@@ -4,6 +4,8 @@ title: Switch Reviews
 parent: Microswitches
 grand_parent: Parts
 nav_order: 1
+redirect_from:
+  - /w/Subjective_Thoughts_on_Switch_Choices_for_Controllers 
 ---
 
 # Switch Reviews

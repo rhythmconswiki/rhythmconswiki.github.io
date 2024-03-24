@@ -4,6 +4,8 @@ title: YuanCon Firmware
 parent: YuanCon
 grand_parent: Commercial Controllers
 nav_order: 1
+redirect_from:
+  - /w/YuanCon_Firmware
 ---
 
 # YuanCon Firmware

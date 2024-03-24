@@ -3,6 +3,8 @@ layout: default
 title: Parts
 nav_order: 3
 has_children: true
+redirect_from:
+  - /w/Parts
 ---
 
 # Parts

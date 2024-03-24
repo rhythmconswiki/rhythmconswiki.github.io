@@ -4,6 +4,9 @@ title: YuanCon
 parent: Commercial Controllers
 nav_order: 2
 has_children: true
+redirect_from:
+  - /w/YuanCon_FAQ
+  - /w/Yuan_FAQ
 ---
 
 # YuanCon

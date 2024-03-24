@@ -4,6 +4,8 @@ title: Microswitches
 parent: Parts
 nav_order: 3
 has_children: true
+redirect_from:
+  - /w/Microswitches
 ---
 
 # Microswitches

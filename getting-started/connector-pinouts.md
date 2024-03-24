@@ -3,6 +3,8 @@ layout: default
 title: Connector Pinouts
 parent: Getting Started
 nav_order: 7
+redirect_from:
+  - /w/Connector_Pinouts
 ---
 
 # Connector Pinouts
