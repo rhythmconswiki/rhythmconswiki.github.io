@@ -59,7 +59,7 @@ For SDVX Lite 3 controllers, the firmware update file is embedded within the upd
 
 ### Older Controllers
 
-For controllers prior to SDVX Gen12, and SDVX Lite (1, 2, and 2+), the firmware file and update utility are separate.
+For controllers prior to SDVX Gen12, and SDVX Lite (1, 2/+), the firmware file and update utility are separate.
 
 1. Download the old [YuanCon Update](https://archive.org/download/yuan-con-old-firmware-updater-dzpw/YuanCon_old_firmware_updater.zip) utility
 2. Download the desired firmware version below
