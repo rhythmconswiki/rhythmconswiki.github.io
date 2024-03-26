@@ -10,4 +10,4 @@ redirect_from:
 
 # Buttons
 
-Select a button from the list below:
+Select an option from the list below:
