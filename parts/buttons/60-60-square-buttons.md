@@ -49,8 +49,8 @@ ISTMALL and Baolian has their own brand of generic buttons which are higher qual
 
 | **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**         | **Price**  |
 |-----------------|-----------|----------|-------------|------------|------------------|------------|
-| Generic         | White     | None     | 65g         | 100g       | [ISTMALL][I2]    | $6.00 USD  |
-| Generic         | White     | None     | None        | 100g       | [Aliexpress][A1] | $1.56 USD  |
+| Generic         | White     | None     | 65g         | 60g       | [ISTMALL][I2]    | $6.00 USD  |
+| Generic         | White     | None     | None        | 60g       | [Aliexpress][A1] | $1.56 USD  |
 
 ### Aliexpress / eBay / Amazon
 
