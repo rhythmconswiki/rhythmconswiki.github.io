@@ -27,4 +27,5 @@ callouts:
     color: red
 
 plugins:
+  - jekyll-seo-tag
   - jekyll-redirect-from
