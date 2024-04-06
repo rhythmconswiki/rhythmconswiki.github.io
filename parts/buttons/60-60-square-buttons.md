@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 60x60mm Square Button
+decription: These buttons are used for Sound Voltex's BT buttons and Ongeki's main play buttons.
 parent: Buttons
 grand_parent: Parts
 nav_order: 1
@@ -44,11 +45,12 @@ Blue Spring Express sells a full Sanwa set for SDVX (4x OBSA-60UK, 2x OBSA-45UK)
 
 ## Generic (Chinese) Buttons
 
-ISTMALL has their own brand of generic buttons which are higher quality than those purchased on Aliexpress / eBay / Amazon.
+ISTMALL and Baolian has their own brand of generic buttons which are higher quality than those purchased on Aliexpress / eBay / Amazon. Note that Baolian buttons do not come with switches.
 
-| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**      | **Price**  |
-|-----------------|-----------|----------|-------------|------------|---------------|------------|
-| Old Style       | White     | None     | 65g         | 100g       | [ISTMALL][I2] | $6.00 USD  |
+| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**         | **Price**  |
+|-----------------|-----------|----------|-------------|------------|------------------|------------|
+| Generic         | White     | None     | 65g         | 100g       | [ISTMALL][I2]    | $6.00 USD  |
+| Generic         | White     | None     | None        | 100g       | [Aliexpress][A1] | $1.56 USD  |
 
 ### Aliexpress / eBay / Amazon
 
@@ -87,3 +89,4 @@ These buttons are longer than Sanwa and generic buttons. Be mindful when install
 [I2]: https://www.us.istmall.co.kr/Product/Detail/view/pid/67/cid/161
 [B1]: https://bluespringexpress.net/en-us/products/sdvx-sanwa-set?variant=43065169019130
 [P1]: https://smartstore.naver.com/partum/products/5882277767
+[A1]: https://www.aliexpress.us/item/3256805956615821.html
