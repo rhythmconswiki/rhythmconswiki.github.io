@@ -90,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3.3)
   jekyll-redirect-from
+  jekyll-seo-tag
   just-the-docs (= 0.7.0)
 
 BUNDLED WITH
