@@ -3,6 +3,8 @@ layout: default
 title: beatmania IIDX
 parent: Controllers
 nav_order: 1
+redirect_from:
+  - /w/Beatmania_IIDX
 ---
 
 # beatmania IIDX

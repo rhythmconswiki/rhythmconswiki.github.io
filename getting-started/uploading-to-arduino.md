@@ -3,6 +3,8 @@ layout: default
 title: Uploading to Arduino
 parent: Getting Started
 nav_order: 6
+redirect_from:
+  - /w/Uploading_To_Arduino
 ---
 
 # Uploading to Arduino
