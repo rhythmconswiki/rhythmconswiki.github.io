@@ -35,10 +35,10 @@ This output sends one pulse at the set resolution, but it is **not** a quadratur
 
 The connector is JST PH 6 pin.
 
-{.note}
+{: .note}
 This is an open-drain output, so pull-up resistors are required for the signal to return high.
 
-{.warning}
+{: .warning}
 If spun too fast, there is no longer a separation between pulses. Effectively, this mode is like holding a button for the encoder instead of giving proper analog control. It is not recommended.
 
 ### Serial Output
@@ -55,7 +55,7 @@ And will only send one of the two messages:
 
 The connector is JST PH 4 pin.
 
-{.note}
+{: .note}
 Due to the fairly high baud rate, hardware serial is likely required to capture signals correctly.
 
 ## DIP Swith Configuration
