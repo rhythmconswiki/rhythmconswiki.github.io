@@ -3,6 +3,8 @@ layout: default
 title: Sound Voltex
 parent: Controllers
 nav_order: 2
+redirect_from:
+  - /w/Sound_Voltex
 ---
 
 # Sound Voltex

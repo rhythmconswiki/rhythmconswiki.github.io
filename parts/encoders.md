@@ -3,6 +3,7 @@ layout: default
 title: Encoders
 parent: Parts
 nav_order: 5
+has_children: true
 ---
 
 # Encoders
