@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Microswitches
+description: Commonly used microswitches and where to buy them.
 parent: Parts
 nav_order: 3
 has_children: true
