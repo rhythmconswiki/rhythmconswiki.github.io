@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Connector Pinouts
+description: Information on common rhythm game controller pinouts.
 parent: Getting Started
 nav_order: 7
 redirect_from:

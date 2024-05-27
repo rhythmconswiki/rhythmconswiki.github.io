@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YuanCon SDVX Lite
+description: Info on the YuanCon Lite controller.
 parent: YuanCon
 grand_parent: Commercial Controllers
 nav_order: 3

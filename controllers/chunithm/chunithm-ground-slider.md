@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chunithm Ground Slider
+description: General info on the official Sega Chunithm Ground Slider.
 parent: Chunithm
 grand_parent: Controllers
 nav_order: 1

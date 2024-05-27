@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Groove Coaster
+description: General info on DIY Groove Coaster controllers.
 parent: Controllers
 nav_order: 7
 ---

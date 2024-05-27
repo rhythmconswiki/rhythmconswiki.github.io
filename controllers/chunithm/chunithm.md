@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chunithm
+description: General info on DIY Chunithm controllers.
 parent: Controllers
 nav_order: 5
 has_children: true

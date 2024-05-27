@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sound Voltex
+description: General info on DIY Sound Voltex controllers.
 parent: Controllers
 nav_order: 2
 redirect_from:

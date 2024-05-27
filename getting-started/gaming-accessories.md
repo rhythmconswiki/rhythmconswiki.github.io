@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gaming Accessories
+description: Information on common rhythm game accessories
 parent: Getting Started
 nav_order: 8
 ---

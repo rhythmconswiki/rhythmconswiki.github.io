@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Travel Pads
+description: General info on DIY travel / mini dance pads.
 parent: Dance Pads
 grand_parent: Controllers
 nav_order: 1

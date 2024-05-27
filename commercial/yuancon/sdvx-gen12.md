@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YuanCon SDVX Gen12
+description: Info on the YuanCon SDVX Gen 12 controller.
 parent: YuanCon
 grand_parent: Commercial Controllers
 nav_order: 2

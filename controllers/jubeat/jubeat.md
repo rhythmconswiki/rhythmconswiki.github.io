@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Jubeat
+description: General info on DIY jubeat controllers.
 parent: Controllers
 nav_order: 8
 ---

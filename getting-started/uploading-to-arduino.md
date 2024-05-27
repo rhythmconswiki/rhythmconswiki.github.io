@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Uploading to Arduino
+description: A step-by-step guide on uploading code using the Arduino IDE.
 parent: Getting Started
 nav_order: 6
 redirect_from:

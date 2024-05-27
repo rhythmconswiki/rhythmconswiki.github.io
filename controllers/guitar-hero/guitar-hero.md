@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Guitar Hero
+description: General info on DIY Guitar Hero / Guitar Freak controllers.
 parent: Controllers
 nav_order: 10
 ---

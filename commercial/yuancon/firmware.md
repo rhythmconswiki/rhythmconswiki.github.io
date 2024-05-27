@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YuanCon Firmware
+description: Information and download links for YuanCon firmware.
 parent: YuanCon
 grand_parent: Commercial Controllers
 nav_order: 1

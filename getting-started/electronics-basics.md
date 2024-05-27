@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Electronics Basics
+description: Information on basic electronics knowledge.
 parent: Getting Started
 nav_order: 3
 ---

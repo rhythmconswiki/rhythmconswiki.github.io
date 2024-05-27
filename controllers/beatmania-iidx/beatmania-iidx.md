@@ -1,6 +1,7 @@
 ---
 layout: default
 title: beatmania IIDX
+description: General info on DIY beatmania IIDX controllers.
 parent: Controllers
 nav_order: 1
 redirect_from:

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Reducing Sound
+description: Information on reducing sound in rhythm game controllers.
 parent: Getting Started
 nav_order: 9
 ---
@@ -25,6 +26,10 @@ Contents
 Using thicker wood as a case material will result in a lower resonant frequency and add acoustic mass to dampen sounds. 
 
 ## After Construction / For Stock Controllers
+
+### Cover The Controller With A Towel
+
+Covering the controller with a towel will obviously change the gameplay feel dramatically, but it's a common technique used to dampen the sound dramatically.
 
 ### Fill the Controller
 

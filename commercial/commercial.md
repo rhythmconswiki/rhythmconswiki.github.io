@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Commercial Controllers
+description: Directory for commercially available rhythm game controllers.
 nav_order: 6
 has_children: true
 ---

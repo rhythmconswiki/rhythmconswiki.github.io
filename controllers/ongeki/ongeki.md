@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ongeki
+description: General info on DIY Ongeki controllers.
 parent: Controllers
 nav_order: 6
 redirect_from:

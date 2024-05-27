@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Pop'n Music
+description: General info on DIY pop'n music controllers.
 parent: Controllers
 nav_order: 3
 ---

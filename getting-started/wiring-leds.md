@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Wiring LEDs
+description: Information on wiring LEDs to microcontrollers.
 parent: Getting Started
 nav_order: 4
 ---

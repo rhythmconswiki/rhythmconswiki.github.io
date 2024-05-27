@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chunithm Air Strings
+description: General info on the Sega Chunithm Air Strings.
 parent: Chunithm
 grand_parent: Controllers
 nav_order: 2

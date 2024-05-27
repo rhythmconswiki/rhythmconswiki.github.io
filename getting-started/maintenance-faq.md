@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Maintenance FAQ
+description: FAQ for rhythm game controller maintenance.
 parent: Getting Started
 nav_order: 7
 redirect_from:
