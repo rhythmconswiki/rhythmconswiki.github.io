@@ -30,10 +30,6 @@ Comet Pinball: [https://www.cometpinball.com/products/2smd-bulbs](https://www.co
 
 ## Europe
 
-### UK
-
-Arcade World UK: [https://www.arcadeworlduk.com/products/awuk-5v-10mm-wedge-base-led.html](https://www.arcadeworlduk.com/products/awuk-5v-10mm-wedge-base-led.html)
-
 ### France
 
 Small Cab: [https://www.smallcab.net/led-c-88_123.html](https://www.smallcab.net/led-c-88_123.html)
