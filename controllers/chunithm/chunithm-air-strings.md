@@ -41,3 +41,7 @@ Note pin numbering is right to left, so pin 8 is the central pin of row 2, pin 1
 ## Using on a PC
 
 To interface the Air Strings with your PC, consider the following board: [https://github.com/Lemony0301/pcb-for-AIR_STRING](https://github.com/Lemony0301/pcb-for-AIR_STRING)
+
+## LED Strip
+
+The LED strip is a 48 LED/meter 12V WS2811 strip.
