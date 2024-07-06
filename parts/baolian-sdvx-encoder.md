@@ -25,7 +25,10 @@ This encoder features three different types of outputs.
 
 This output mimics the hall effect sensor used in the arcade cabinet, ranging from 0V to 3.3V through a full rotation. Included with the encoder is an adapter board that scales the output from 0V to 5V.
 
-The connector is JST PH 3pin. 
+The connector is JST PH 3 pin.
+
+{: .note}
+The Sensatec potentiometer on the arcade cabinets use JST ZH, so an adapter cable is required.
 
 This is the recommended output method.
 
