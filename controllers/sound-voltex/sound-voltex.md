@@ -84,7 +84,7 @@ PCB and 3D printed design: [https://github.com/speedypotato/Pocket-SDVX-Pico-v4]
 
 ## Frequently Asked Questions
 
-### Should I buy the official Konami NESYS Controller?
+### Should I buy the official Konami NEMSYS Controller?
 
 It's not recommended. The entry model is all plastic with rubber dome switches. The ultimate model is higher quality, but still extremely expensive compared to DIY or third party options.
 
