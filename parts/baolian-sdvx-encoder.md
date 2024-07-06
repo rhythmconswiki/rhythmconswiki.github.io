@@ -27,7 +27,7 @@ This output mimics the hall effect sensor used in the arcade cabinet, ranging fr
 
 The connector is JST PH 3pin. 
 
-This is the recommend output method.
+This is the recommended output method.
 
 ### Pulse Output
 
@@ -58,7 +58,7 @@ The connector is JST PH 4 pin.
 {: .note}
 Due to the fairly high baud rate, hardware serial is likely required to capture signals correctly.
 
-## DIP Swith Configuration
+## DIP Switch Configuration
 
 The DIP switches configure the resolution of the pulse and serial output. Per the datasheet:
 
