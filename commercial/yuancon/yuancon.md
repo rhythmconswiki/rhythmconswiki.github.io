@@ -1,6 +1,7 @@
 ---
 layout: default
 title: YuanCon 
+description: General info and FAQ on YuanCon controllers.
 parent: Commercial Controllers
 nav_order: 2
 has_children: true

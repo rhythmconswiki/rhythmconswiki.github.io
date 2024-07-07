@@ -61,6 +61,12 @@ The connector is JST PH 4 pin.
 {: .note}
 Due to the fairly high baud rate, hardware serial is likely required to capture signals correctly.
 
+### Pinouts
+
+See the following image for pinouts:
+
+<img src="../img/baolian-sdvx-pinout.png" width="500" />
+
 ## DIP Switch Configuration
 
 The DIP switches configure the resolution of the pulse and serial output. Per the datasheet:

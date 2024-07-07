@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Choosing a Board
+description: Information on selecting a microcontroller for DIY rhythm controllers.
 parent: Getting Started
 nav_order: 5
 redirect_from:

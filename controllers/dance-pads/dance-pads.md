@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dance Pads
-description: General info on DIY dance pads, for use with DDR, ITG, Pump It Up.
+description: General info on DIY dance pads, for use with DDR, ITG, and Pump It Up.
 parent: Controllers
 nav_order: 4
 has_children: true
