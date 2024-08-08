@@ -40,9 +40,15 @@ The model number is CWB 401.
 
 | **Lamp Holder** | **Color**                              | **Lamp** | **Switch** | **Spring** | **Link**      | **Price**  |
 |-----------------|----------------------------------------|----------|------------|------------|---------------|------------|
-| Samducksa       | White, Black, Red, Blue, Yellow, Green | None     | 65g        | 200g        | [ISTMALL][I1] | $9.00 USD  |
+| Samducksa       | White, Red, Blue, Yellow, Green        | None     | 65g        | 200g        | [ISTMALL][I1] | $9.00 USD  |
 
 ## Generic (Chinese) Buttons
+
+Baolian has their own brand of generic buttons which are higher quality than those purchased on Aliexpress / eBay / Amazon. Note that they do not come with switches.
+
+| **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**         | **Price**  |
+|-----------------|-----------|----------|-------------|------------|------------------|------------|
+| Generic         | White, Red, Blue, Yellow, Green     | None     | None        | Unknown, please let us know if you buy one!   | [Aliexpress][A1] | $2.58 USD  |
 
 ### Aliexpress / eBay / Amazon
 
@@ -64,3 +70,4 @@ Typically, these buttons will come with extremely heavy springs and switches (up
 [R7]: https://item.rakuten.co.jp/sanwadenshi/ilumb_140/
 [R8]: https://item.rakuten.co.jp/sanwadenshi/ilumb_139/
 [I1]: https://www.us.istmall.co.kr/Product/Detail/view/pid/73/cid/161
+[A1]: https://www.aliexpress.us/item/3256805727571976.html
