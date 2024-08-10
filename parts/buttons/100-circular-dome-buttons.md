@@ -34,6 +34,14 @@ The model number is OBSA-100UMQ. Possible colors are white, red, green, blue, an
 | New Style       | None               | 100g (Reed) | 100g       | [Rakuten][R7] | 6468 JPY   |            |
 | New Style       | LED (5V, 12V, 24V) | 100g (Reed) | 100g       | [Rakuten][R8] | 7535 JPY   |            |
 
+### Pop'n Set from Blue Spring Express
+
+Blue Spring Express sells a full Sanwa set for SDVX (9x OBSA-100UMQ).
+
+| **Lamp Holder** | **Lamp** | **Switch**  | **Spring**           | **Link**                   | **Price**   |
+|-----------------|----------|-------------|----------------------|----------------------------|-------------|
+| Old             | None     | 10x 100g    | 9x 400g and 20x 100g | [Blue Spring Express][B1]  | $355.67 USD |
+
 ## Samducksa
 
 The model number is CWB 401.
@@ -71,3 +79,4 @@ Typically, these buttons will come with extremely heavy springs and switches (up
 [R8]: https://item.rakuten.co.jp/sanwadenshi/ilumb_139/
 [I1]: https://www.us.istmall.co.kr/Product/Detail/view/pid/73/cid/161
 [A1]: https://www.aliexpress.us/item/3256805727571976.html
+[B1]: https://bluespringexpress.net/en-us/products/popn-music-sanwa-button-set-obsa-100umq
