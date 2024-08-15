@@ -20,7 +20,7 @@ Contents
 
 ## Sensors
 
-While the part number on the IR transmitters and receivers is not marked on the part, our best guess is Shinkoh Electronics KB893. 
+The IR transmitters and receivers are Shinkoh Electronics P/N KB892, which have been discontinued.
 
 ## Pinouts
 
