@@ -20,7 +20,7 @@ Contents
 
 ## Sensors
 
-The IR transmitters and receivers are Shinkoh Electronics P/N KB892, which have been discontinued.
+The IR transmitters and receivers are Shinkoh Electronics P/N KB893, which have been discontinued.
 
 ## Pinouts
 
