@@ -75,7 +75,7 @@ This switch has been discontinued. You may still find shops with old stock remai
 
 ## Sanwa
 
-Items listed under this section are **only** comptabile with Sanwa brand buttons.
+Items listed under this section are **only** comptabile with Sanwa brand buttons. These switches have a JST NH connector on them. 
 
 ### OBSA-LHS1F (100g)
 
