@@ -5,6 +5,8 @@ description: General info on DIY Chunithm controllers.
 parent: Controllers
 nav_order: 5
 has_children: true
+redirect_from:
+  - /w/Chunithm
 ---
 
 # Chunithm
