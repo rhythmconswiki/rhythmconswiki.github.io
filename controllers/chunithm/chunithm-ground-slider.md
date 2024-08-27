@@ -32,7 +32,7 @@ The items below are to mate with the stock harness. Do not order them unless you
 
 * YLR-03V Qty 1
 * YLS-03V Qty 1
-* SYM-01T-P0.5A Qty 3 (26-20 AWG) **OR** YM-41T-P0.5A Qty 3 (20-16 AWG)
+* SYM-01T-P0.5A Qty 3 (26-20 AWG) **OR** SYM-41T-P0.5A Qty 3 (20-16 AWG)
 
 ### Serial Connector
 

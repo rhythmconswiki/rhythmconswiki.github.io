@@ -22,6 +22,24 @@ Contents
 
 The IR transmitters and receivers are Shinkoh Electronics P/N KB893, which have been discontinued.
 
+## Cable Harness Connectors
+
+The items below are to mate with the stock harness.
+
+{: .note}
+Quantities listed below are **for both sides**.
+
+### Sensor Connector
+
+* YLR-15V Qty 2
+* SYM-01T-P0.5A Qty 26 (26-20 AWG) **OR** SYM-41T-P0.5A Qty 26 (20-16 AWG)
+
+### LED Connector
+
+* YLR-06V Qty 2
+* YLS-03V Qty 4
+* SYM-01T-P0.5A Qty 6 (26-20 AWG) **OR** SYM-41T-P0.5A Qty 6 (20-16 AWG)
+
 ## Pinouts
 
 The outputs are split between the two towers, so each has 3. Starting from the lowermost beam to the uppermost beam, the order is as follows: 
