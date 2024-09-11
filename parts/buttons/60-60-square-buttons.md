@@ -47,7 +47,8 @@ Blue Spring Express sells a full Sanwa set for SDVX (4x OBSA-60UK, 2x OBSA-45UK)
 
 ISTMALL and Baolian has their own brand of generic buttons which are higher quality than those purchased on Aliexpress / eBay / Amazon.
 
-{: .warning} Baolian buttons do not come with switches. Some customers have noted that Baolian buttons may not have the same spring weight and Baolian customer service will not help with this issue.
+{: .warning}
+Baolian buttons do not come with switches. Some customers have noted that Baolian buttons may not have the same spring weight and Baolian customer service will not help with this issue.
 
 | **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**         | **Price**  |
 |-----------------|-----------|----------|-------------|------------|------------------|------------|
