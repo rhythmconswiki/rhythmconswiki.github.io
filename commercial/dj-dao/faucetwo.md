@@ -24,6 +24,10 @@ Contents
 
 Try holding Start, BT-A, BT-B, BT-C, BT-D, FX-L, and FX-R for 10 seconds. This will swap between encoder and potentiometer mode. 
 
+## How are the buttons wired to the board?
+
+Start goes to 1, BT-A through BT-D are 2-5, and FX-L and FX-R are 6-7.
+
 ## Mode 2 and HID Mode Issues
 
 It is reported that Mode 2 and HID mode do not work with USB 2.0 ports and require a USB 3.0 port. 
