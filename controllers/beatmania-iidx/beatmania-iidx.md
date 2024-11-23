@@ -37,6 +37,8 @@ Gladuin: [https://github.com/Gladuin/iidx-controller](https://github.com/Gladuin
 
 KnucklesLee: [ttps://github.com/knuckleslee/RhythmCodes/tree/master/1E11B11LED_iidx/leo](https://github.com/knuckleslee/RhythmCodes/tree/master/1E11B11LED_iidx/leo)
 
+Inorizushi: [https://github.com/Inorizushi/funni-IIDX](https://github.com/Inorizushi/funni-IIDX)
+
 4yn: [https://github.com/4yn/iivx](https://github.com/4yn/iivx)
 
 ### Raspberry Pi Pico (RP2040)
