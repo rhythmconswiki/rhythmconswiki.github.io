@@ -71,7 +71,7 @@ Please note the board in the lower right, as indicated by the red arrow. This mu
 
 Plug in your Arduino. Then under Tools -> Port, select the COMxx number that matches your board. It should be labeled. 
 
-<img src="../img/arduino-ide-choosingboard.png" width="700" />
+<img src="../img/arduino-ide-choosingport.png" width="700" />
 
 ## Step 5: Upload!
 
