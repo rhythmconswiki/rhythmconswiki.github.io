@@ -32,6 +32,9 @@ For the purposes of this page:
 
 ## Gamo2 / arcin
 
+{: .note}
+Use the 'Older Controllers' pinouts for arcin.
+
 ### Phoenixwan+ and Faucetwo
 
 #### Button Pins
@@ -68,9 +71,12 @@ Both ARGB (WS2812b) and standard RGB (common-anode) have headers.
 
 #### Analog
 
+{: .note}
+This connector is JST-ZH.
+
 <img src="../img/pwan-f2-analog-pinout.png" width="400" />
 
-### Older Controllers
+### Older Controllers / arcin
 
 #### Button Pins
 
