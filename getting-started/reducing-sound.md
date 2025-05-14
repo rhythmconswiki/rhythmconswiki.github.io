@@ -41,6 +41,12 @@ Putting a thin material, such as tissue, cloth, or foam, between the black butto
 
 Ensure that the material you chose is not too thick, or it may prevent you from pressing the button fully. 
 
+The image below shows a Sound Voltex BT button with a paper towel for sound dampening.
+
+<img src="../img/sound-dampening-paper-towel.jpg" width="700" />
+
+Credit: Hoshikara
+
 ### Lubricate Springs
 
 Lubricating the springs with a plastic-safe lubricant (such as lubricants designed for mechanical keyboards, or silicone-based lubricants) will reduce the ping noise from springs. It won't do much for other sounds. 
