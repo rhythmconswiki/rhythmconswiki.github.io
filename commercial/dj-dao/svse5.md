@@ -20,3 +20,7 @@ Contents
 ### What encoder is used on the base model?
 
 Nidec RES20D-50-201-1. In the US, this is stocked on Digikey and Mouser.
+
+### How can I use this controller with Konasute / EA Cloud?
+
+See this video: [https://www.youtube.com/watch?v=EAAR0kKzXok](https://www.youtube.com/watch?v=EAAR0kKzXok)
