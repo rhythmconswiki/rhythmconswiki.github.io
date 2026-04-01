@@ -43,6 +43,8 @@ Inorizushi: [https://github.com/Inorizushi/funni-IIDX](https://github.com/Inoriz
 
 ### Raspberry Pi Pico (RP2040)
 
+SilverSword95: [https://github.com/SilverSword95/SilverIIDX](https://github.com/SilverSword95/SilverIIDX)
+
 SpeedyPotato: [https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-iidx](https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-iidx)
 
 ## Controller Size
