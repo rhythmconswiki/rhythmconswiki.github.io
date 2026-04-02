@@ -76,6 +76,8 @@ These buttons are longer than Sanwa and generic buttons. Be mindful when install
 | **Lamp Holder** | **Color** | **Lamp** | **Switch**  | **Spring** | **Link**      | **Price** |
 |-----------------|-----------|----------|-------------|------------|---------------|-----------|
 | Generic         | White     | None     | Optional    | Optional   | [Partum][P1]  | 8000 KRW  |
+| Generic         | White     | LED (6V, White)    | Zippy VM-P1F-00D0-1-Z 50g  | 60g   | [ISTMALL][I3]  | $9.00 USD |
+
 
 ----
 
@@ -90,6 +92,9 @@ These buttons are longer than Sanwa and generic buttons. Be mindful when install
 [R9]: https://item.rakuten.co.jp/sanwadenshi/ilumb_076/
 [I1]: https://www.us.istmall.co.kr/Product/Detail/view/pid/48/cid/161
 [I2]: https://www.us.istmall.co.kr/Product/Detail/view/pid/67/cid/161
+[I3]: https://www.us.istmall.co.kr/Product/Detail/view/pid/785/cid/163
 [B1]: https://bluespringexpress.net/en-us/products/sdvx-sanwa-set?variant=43065169019130
 [P1]: https://smartstore.naver.com/partum/products/5882277767
 [A1]: https://www.aliexpress.us/item/3256805956615821.html
+[A1]: https://www.aliexpress.us/item/3256805956615821.html
+
