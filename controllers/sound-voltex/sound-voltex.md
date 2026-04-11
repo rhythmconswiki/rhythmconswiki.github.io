@@ -66,6 +66,8 @@ SpeedyPotato: [https://github.com/speedypotato/Pico-Game-Controller/tree/release
 
 A 3d-printed design: [https://github.com/Umi4Life/SDVX-AC-Case](https://github.com/Umi4Life/SDVX-AC-Case)
 
+Another 3d-printed design: [https://github.com/thomasstar/GJ-Tho-Voltex](https://github.com/thomasstar/GJ-Tho-Voltex)
+
 A simple laser-cut MDF guide: [https://sdvx-diy.github.io/](https://sdvx-diy.github.io/)
 
 A simple laser-cut guide: [https://github.com/fabricioanciaes/OpenSDVXCon](https://github.com/fabricioanciaes/OpenSDVXCon)
