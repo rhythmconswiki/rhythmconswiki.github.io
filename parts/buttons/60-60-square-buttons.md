@@ -96,5 +96,4 @@ These buttons are longer than Sanwa and generic buttons. Be mindful when install
 [B1]: https://bluespringexpress.net/en-us/products/sdvx-sanwa-set?variant=43065169019130
 [P1]: https://smartstore.naver.com/partum/products/5882277767
 [A1]: https://www.aliexpress.us/item/3256805956615821.html
-[A1]: https://www.aliexpress.us/item/3256805956615821.html
 
