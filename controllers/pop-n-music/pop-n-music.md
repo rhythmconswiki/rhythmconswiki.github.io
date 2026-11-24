@@ -60,4 +60,8 @@ The monitors on both SD and HD cabs are tilted at a 15 degree angle.
 
 ### How can I use a PS2 controller on PC?
 
-If you don't want to gut and re-wire the controller, take a look at this project: [https://github.com/Curfewshino/PicoPS2PopN](https://github.com/Curfewshino/PicoPS2PopN), which uses a Raspberry Pi Pico to convert the signals appropriately.
+Here are two projects for PSX to USB adapters:
+- [https://github.com/CrazyRedMachine/BEMANI_PSX_Adapter/tree/main/DIY_GUIDE](https://github.com/CrazyRedMachine/BEMANI_PSX_Adapter/tree/main/DIY_GUIDE)
+- [https://github.com/Curfewshino/PicoPS2PopN](https://github.com/Curfewshino/PicoPS2PopN)
+
+Otherwise, gutting the controller and replacing the main board is an option.
