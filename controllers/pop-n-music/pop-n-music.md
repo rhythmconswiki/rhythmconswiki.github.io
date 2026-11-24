@@ -55,3 +55,9 @@ Pico Popn, a minicon design using 3D printed parts and a custom PCB: [https://gi
 ## Monitor Info
 
 The monitors on both SD and HD cabs are tilted at a 15 degree angle.
+
+## Frequently Asked Questions
+
+### How can I use a PS2 controller on PC?
+
+If you don't want to gut and re-wire the controller, take a look at this project: [https://github.com/Curfewshino/PicoPS2PopN](https://github.com/Curfewshino/PicoPS2PopN), which uses a Raspberry Pi Pico to convert the signals appropriately.
